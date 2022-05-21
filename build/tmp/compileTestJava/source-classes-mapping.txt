@@ -1,2 +1,0 @@
-LoginEndpointTest.java
- LoginEndpointTest
